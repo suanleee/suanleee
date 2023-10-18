@@ -1,0 +1,12 @@
+//Function
+// - fundamental buildinf block in the program
+// - subprogram can be used mltiple times
+
+// 1. Funtion delaration
+// funtion name(parm1, parm2) {body... return}
+
+function printlello() {
+    console.log{'Hello'}
+}
+
+printlello()
